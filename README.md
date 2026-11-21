@@ -82,7 +82,7 @@ pip install -e ".[dev]"
 pytest -q
 ```
 
-Supports Python 3.9 and newer. MIT licensed.
+Runs on Python 3.9 and newer (CI covers 3.10, 3.12 and 3.13). MIT licensed.
 
 ## In het Nederlands
 
